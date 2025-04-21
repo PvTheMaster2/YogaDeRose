@@ -1,0 +1,41 @@
+---
+created: 2025-04-09T17:42
+updated: 2025-04-09T17:44
+---
+# Obsidian specific files
+.obsidian/
+.trash/
+
+# System files
+.DS_Store
+desktop.ini
+
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.dylib
+
+# Environment directories
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build directories
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp

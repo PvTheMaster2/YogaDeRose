@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "c7d30e9b97fec99e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c81585485a951c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ebf64043478c730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 - MPS OF CONTENT/Yoga MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yoga MOC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ad8475d5dedca88",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac9a35054d1a2913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e6d224aebbb97dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "373c30763f1e971a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b8d98a0ed392a76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "24023d18c86abac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4aef97fd367a375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1fa14afaa4bf854",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "30 - MPS OF CONTENT/Yoga MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Yoga MOC"
+            }
+          },
+          {
+            "id": "22dcdd2207748ebf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10 - PERMANENT/Zettels/Yoga/60-1--se-receber-uma-agressao.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 60-1--se-receber-uma-agressao"
+            }
+          },
+          {
+            "id": "b9c40afd727e26f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10 - PERMANENT/Zettels/Yoga/60-1--se-receber-uma-agressao.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 60-1--se-receber-uma-agressao"
+            }
+          },
+          {
+            "id": "b5321f493253d01f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-tab",
+              "state": {},
+              "icon": "star",
+              "title": "AI"
+            }
+          },
+          {
+            "id": "f1547c463ca1858d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-tab",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "886139cb56fbba8e",
+            "type": "leaf",
+            "state": {
+              "type": "semantic-search-tab",
+              "state": {},
+              "icon": "search",
+              "title": "Semantic Search"
+            }
+          },
+          {
+            "id": "e0033084d9be9935",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-tab",
+              "state": {},
+              "icon": "star",
+              "title": "AI"
+            }
+          },
+          {
+            "id": "bb0e023aa858eb7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd191757cac5519c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "049881419eba08aa",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-projects:Open projects": false,
+      "copilot:Open Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "2ebf64043478c730",
+  "lastOpenFiles": [
+    "10 - PERMANENT/Zettels/Yoga/23-12-4--historia-da-medalha-com-o-om.md",
+    "30 - MPS OF CONTENT/Yoga MOC.md",
+    "10 - PERMANENT/Zettels/Yoga/23-12--om.md",
+    "10 - PERMANENT/Zettels/Yoga/23-1--definicao.md",
+    "10 - PERMANENT/Zettels/Yoga/23-10--gayatri-mantra-segundo-a-linhagem-shakta.md",
+    "10 - PERMANENT/Zettels/Yoga/24-3-32--32-bhastrika-respiracao-do-sopro-rapido.md",
+    "10 - PERMANENT/Zettels/Yoga/7-1-8--swasthya-yoga-o-yoga-antigo-de-raizes-pre-classicas.md",
+    "10 - PERMANENT/Zettels/Yoga/7--tipos-de-yoga.md",
+    "10 - PERMANENT/Zettels/Yoga/1--definicoes.md",
+    "10 - PERMANENT/Zettels/Yoga/68-6--v-aparigraha.md",
+    "10 - PERMANENT/Zettels/Yoga/68-7--vi-sauchan.md",
+    "10 - PERMANENT/Zettels/Yoga/68-8--vii-santosha.md",
+    "10 - PERMANENT/Zettels/Yoga/68-9--viii-tapas.md",
+    "10 - PERMANENT/Zettels/Yoga/68-10--ix-swadhyaya.md",
+    "10 - PERMANENT/Zettels/Yoga/68-11--x-ishwara-pranidhana.md",
+    "10 - PERMANENT/Zettels/Yoga/69--outros-livros-do-mesmo-autor-para-leituras-subsequentes.md",
+    "10 - PERMANENT/Zettels/Yoga/24--pranayama.md",
+    "99 - RESOURCES/99 - TEMPLATE/Publish All Notes.md.md",
+    "Untitled.md",
+    "10 - PERMANENT/Zettels/Yoga/60-1--se-receber-uma-agressao.md",
+    "10 - PERMANENT/Zettels/Yoga/62-2--solucao-proposta.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "10 - PERMANENT/Zettels/Yoga/68-3--ii-satya.md",
+    "10 - PERMANENT/Zettels/Yoga/12--praticando-diversas-modalidades-de-yoga.md",
+    "00 - INBOX/01 - FLEETING NOTES/adicionarpublicacao.py",
+    "10 - PERMANENT/Zettels/Yoga/adicionarpublicacao.py",
+    "adicionarpublicacao.py",
+    "utils/scheduled_workflow.ps1",
+    "utils/moc_update_workflow.ps1",
+    "utils/create_auto_link_provider.ps1",
+    "scheduled_workflow.ps1",
+    "create_auto_link_provider.ps1",
+    "moc_update_workflow.ps1",
+    "improved_converter.py",
+    "Pasted image 20250417235657.png",
+    "Pasted image 20250417235648.png",
+    "00 - INBOX/03 - IMAGENS_PDF/EMPRESA.png",
+    "utils/Zettelkasten_Ontology.png",
+    "utils/use_tags_2024-12-23.png",
+    "utils/test.png",
+    "utils/Metadata_2024-10-12.png",
+    "utils/Mapa explicação.png",
+    "utils/Linking_with_Templates.png",
+    "utils/IMG_0979.jpeg",
+    "00 - INBOX/00 - ANTIGOS/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "utils/00 - INBOX/00 - ANTIGOS/Untitled.canvas",
+    "00 - ANTIGOS/Untitled.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas"
+  ]
+}
