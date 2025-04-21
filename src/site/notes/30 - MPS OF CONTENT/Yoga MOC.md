@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-mps-of-content/yoga-moc/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/30 - MPS OF CONTENT/Yoga MOC/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
