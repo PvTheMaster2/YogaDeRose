@@ -6,7 +6,7 @@ updated: 2025-04-18T02:57
 
 Este projeto contém scripts e recursos para converter o documento "Trato de Yôga do Mestre De Rose" em um sistema Zettelkasten no Obsidian, facilitando o estudo e a referência do material.
 
-## 📋 Visão Geral
+## 📋 Visão Gerall
 
 O pipeline de processamento tem as seguintes etapas:
 
